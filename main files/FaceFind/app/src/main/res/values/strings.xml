@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Face Morphing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_getface">GetfaceActivity</string>
+    <string name="ads">ca-app-pub-2691806550199991/6213250266</string>
+    <string name="ads_intersitials">ca-app-pub-2691806550199991/7689983468</string>
+</resources>
